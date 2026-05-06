@@ -69,7 +69,11 @@ export default function TruckingBusinessWebsite() {
 
           <div className="bg-white/10 rounded-3xl p-8 shadow-2xl">
             <div className="aspect-video bg-slate-200/20 rounded-2xl flex items-center justify-center">
-              <Truck size={120} className="text-white/80" />
+              <img
+               src="/1000031214.jpg"
+               alt="BTS Truck"
+               className="rounded-2xl w-full h-full object-cover"
+/>
             </div>
           </div>
         </div>

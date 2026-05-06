@@ -7,9 +7,11 @@ export default function TruckingBusinessWebsite() {
       <header className="bg-white shadow-sm sticky top-0 z-50">
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="bg-blue-700 text-white p-2 rounded-xl">
-              <Truck size={26} />
-            </div>
+            <img
+              src="/BTS_Company Logo.png"
+              alt="BTS Logo"
+              className="w-16 h-16 object-contain"
+            />
 
             <div>
               <h1 className="text-xl font-bold">

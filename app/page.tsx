@@ -68,7 +68,7 @@ export default function TruckingBusinessWebsite() {
           </div>
 
           <div className="bg-white/10 rounded-3xl p-6 shadow-2xl">
-            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-2 h-[600px] overflow-hidden">
+            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-2 h-[800px] overflow-hidden">
               <img
                 src="/1000031214.jpg"
                 alt="BTS Truck"

@@ -195,7 +195,7 @@ export default function TruckingBusinessWebsite() {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <Phone size={20} />
-              <span>0917-XXX-XXXX</span>
+              <span>0961-2223-576</span>
             </div>
 
             <div className="flex items-center gap-3">

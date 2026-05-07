@@ -40,7 +40,7 @@ export default function TruckingBusinessWebsite() {
       </header>
 
       <section className="bg-gradient-to-r from-blue-800 to-slate-900 text-white">
-        <div className="max-w-6xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-10 items-center">
+        <div className="max-w-6xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-10 items-start">
           <div>
             <p className="uppercase tracking-widest text-blue-200 text-sm mb-3">
               Trucking • Delivery • Logistics

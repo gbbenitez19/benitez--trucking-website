@@ -67,16 +67,15 @@ export default function TruckingBusinessWebsite() {
             </div>
           </div>
 
-          <div className="bg-white/10 rounded-3xl p-8 shadow-2xl">
-            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-4">
+          <div className="bg-white/10 rounded-3xl p-6 shadow-2xl">
+            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-4 h-[420px] overflow-hidden">
               <img
-               src="/1000031214.jpg"
-               alt="BTS Truck"
-               className="rounded-2xl w-full h-auto object-cover"
-/>
+                src="/1000031214.jpg"
+                alt="BTS Truck"
+                className="rounded-2xl max-w-full max-h-full object-contain"
+              />
             </div>
-          </div>
-        </div>
+           </div>
       </section>
 
       <section id="services" className="max-w-6xl mx-auto px-6 py-20">

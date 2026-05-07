@@ -68,11 +68,11 @@ export default function TruckingBusinessWebsite() {
           </div>
 
           <div className="bg-white/10 rounded-3xl p-6 shadow-2xl">
-            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-4 h-[650px] overflow-hidden">
+            <div className="bg-slate-200/20 rounded-2xl flex items-center justify-center p-4 h-[400px] overflow-hidden">
               <img
                 src="/1000031214.jpg"
                 alt="BTS Truck"
-                className="rounded-2xl max-w-full max-h-full object-contain"
+                className="rounded-2xl max-w-full max-h-full object-cover"
               />
             </div>
            </div>

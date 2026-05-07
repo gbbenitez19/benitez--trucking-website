@@ -18,7 +18,7 @@ export default function TruckingBusinessWebsite() {
                 Benitez Transport & Services
               </h1>
               <p className="text-xs text-slate-500">
-                Beyond Bpundaries . Beyond Horizons
+                 Beyond Boundaries • Beyond Horizons
               </p>
             </div>
           </div>

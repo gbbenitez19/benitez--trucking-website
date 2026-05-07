@@ -10,7 +10,7 @@ export default function TruckingBusinessWebsite() {
             <img
               src="/BTS_Company Logo.png"
               alt="BTS Logo"
-              className="w-16 h-16 object-contain"
+              className="w-16 h-16 object-cover"
             />
 
             <div>
@@ -72,7 +72,7 @@ export default function TruckingBusinessWebsite() {
               <img
                src="/1000031214.jpg"
                alt="BTS Truck"
-               className="rounded-2xl w-full h-auto object-contain"
+               className="rounded-2xl w-full h-auto object-cover"
 />
             </div>
           </div>

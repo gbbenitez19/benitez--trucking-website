@@ -200,7 +200,7 @@ export default function TruckingBusinessWebsite() {
 
             <div className="flex items-center gap-3">
               <Mail size={20} />
-              <span>your@email.com</span>
+              <span>contact.btstrucking@gmail.com</span>
             </div>
 
             <div className="flex items-center gap-3">

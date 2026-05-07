@@ -76,6 +76,7 @@ export default function TruckingBusinessWebsite() {
               />
             </div>
            </div>
+        </div>
       </section>
 
       <section id="services" className="max-w-6xl mx-auto px-6 py-20">
